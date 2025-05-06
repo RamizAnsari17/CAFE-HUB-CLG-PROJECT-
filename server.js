@@ -85,3 +85,7 @@ app.post('/create-order', (req, res) => {
 app.listen(port, () => {
   console.log(` Server running at http://localhost:${port}`);
 });
+
+app.get('/auth/google',
+  passport.authenticate('google', { scope: ['profile', 'email'] })
+);
