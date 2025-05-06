@@ -9,8 +9,9 @@ const app = express();
 const port = 3000;
 
 
-const CLIENT_ID = '';
-const CLIENT_SECRET = '';
+const CLIENT_ID = '378489304981-h89n2u1tcvd5a0isjh8jlc0taq9apk3e.apps.googleusercontent.com
+';
+const CLIENT_SECRET = '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';
 
 
 const razorpay = new Razorpay({
