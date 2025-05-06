@@ -18,3 +18,6 @@ Right-click on clgproject.html
 Select "Open with Live Server" 
 
 
+ATTACHED SCREENSHOTS OF PROJECT IN SCREENSHOTS PROJECT.DOCS
+
+
